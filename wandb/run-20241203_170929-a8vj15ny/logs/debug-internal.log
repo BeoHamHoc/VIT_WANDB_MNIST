@@ -1,0 +1,23 @@
+{"time":"2024-12-03T17:09:29.516075784+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-03T17:09:29.516120548+07:00","level":"INFO","msg":"created symlink","path":"/home/phong/PycharmProjects/VIT_WANDB/wandb/run-20241203_170929-a8vj15ny/logs/debug-core.log"}
+{"time":"2024-12-03T17:09:30.726779516+07:00","level":"INFO","msg":"created new stream","id":"a8vj15ny"}
+{"time":"2024-12-03T17:09:30.726817097+07:00","level":"INFO","msg":"stream: started","id":"a8vj15ny"}
+{"time":"2024-12-03T17:09:30.72682933+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"a8vj15ny"}
+{"time":"2024-12-03T17:09:30.726883441+07:00","level":"INFO","msg":"sender: started","stream_id":"a8vj15ny"}
+{"time":"2024-12-03T17:09:30.726835291+07:00","level":"INFO","msg":"handler: started","stream_id":"a8vj15ny"}
+{"time":"2024-12-03T17:09:31.269631286+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-03T17:09:31.394891929+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-03T17:09:35.214094987+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-03T17:09:36.956044428+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-03T17:09:36.967044495+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-03T17:09:36.968363146+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-03T17:09:37.018292751+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-03T17:09:37.032961251+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-03T17:09:37.033400297+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-03T17:09:38.033603074+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.750505658}],"total_operations":1}}
+{"time":"2024-12-03T17:09:38.102050151+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-03T17:09:39.433324359+07:00","level":"INFO","msg":"stream: closing","id":"a8vj15ny"}
+{"time":"2024-12-03T17:09:39.433345749+07:00","level":"INFO","msg":"handler: closed","stream_id":"a8vj15ny"}
+{"time":"2024-12-03T17:09:39.433355858+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"a8vj15ny"}
+{"time":"2024-12-03T17:09:39.433362371+07:00","level":"INFO","msg":"sender: closed","stream_id":"a8vj15ny"}
+{"time":"2024-12-03T17:09:39.433402757+07:00","level":"INFO","msg":"stream: closed","id":"a8vj15ny"}

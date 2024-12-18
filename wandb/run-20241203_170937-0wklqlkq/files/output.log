@@ -1,0 +1,86 @@
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c94d3e6f140&gt;" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c94d3e6f140&gt;" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c94d3e6f140&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7c94d5096c60&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7c94d3e95ee0&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c94d3e6f140&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7c94d5096c60&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7c94d3e95ee0&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c94d3e6f140&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7c94d5096c60&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7c94d3e95ee0&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c94d3e6f140&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7c94d5096c60&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7c94d3e95ee0&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+</xml>
+Requirement already satisfied: wandb in /home/phong/miniconda3/lib/python3.12/site-packages (0.18.7)
+Requirement already satisfied: click!=8.0.0,>=7.1 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (8.1.7)
+Requirement already satisfied: docker-pycreds>=0.4.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (0.4.0)
+Requirement already satisfied: gitpython!=3.1.29,>=1.0.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (3.1.43)
+Requirement already satisfied: platformdirs in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (3.10.0)
+Requirement already satisfied: protobuf!=4.21.0,!=5.28.0,<6,>=3.19.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (5.29.0)
+Requirement already satisfied: psutil>=5.0.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (5.9.0)
+Requirement already satisfied: pyyaml in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (6.0.2)
+Requirement already satisfied: requests<3,>=2.0.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (2.31.0)
+Requirement already satisfied: sentry-sdk>=2.0.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (2.19.0)
+Requirement already satisfied: setproctitle in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (1.3.4)
+Requirement already satisfied: setuptools in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (68.2.2)
+Requirement already satisfied: six>=1.4.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from docker-pycreds>=0.4.0->wandb) (1.16.0)
+Requirement already satisfied: gitdb<5,>=4.0.1 in /home/phong/miniconda3/lib/python3.12/site-packages (from gitpython!=3.1.29,>=1.0.0->wandb) (4.0.11)
+Requirement already satisfied: charset-normalizer<4,>=2 in /home/phong/miniconda3/lib/python3.12/site-packages (from requests<3,>=2.0.0->wandb) (2.0.4)
+Requirement already satisfied: idna<4,>=2.5 in /home/phong/miniconda3/lib/python3.12/site-packages (from requests<3,>=2.0.0->wandb) (3.4)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /home/phong/miniconda3/lib/python3.12/site-packages (from requests<3,>=2.0.0->wandb) (2.1.0)
+Requirement already satisfied: certifi>=2017.4.17 in /home/phong/miniconda3/lib/python3.12/site-packages (from requests<3,>=2.0.0->wandb) (2024.8.30)
+Requirement already satisfied: smmap<6,>=3.0.1 in /home/phong/miniconda3/lib/python3.12/site-packages (from gitdb<5,>=4.0.1->gitpython!=3.1.29,>=1.0.0->wandb) (5.0.1)
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c94d3e6f140&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7c94d5096c60&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7c94d3e95ee0&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+</xml>
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

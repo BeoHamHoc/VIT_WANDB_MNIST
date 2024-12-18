@@ -1,0 +1,172 @@
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c7ef63add30&gt;" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c7ef63add30&gt;" isContainer="True" />
+</xml>
+[34m[1mwandb[0m: [33mWARNING[0m The mode property of wandb.run is deprecated and will be removed in a future release.
+<xml><var name="_atexit_cleanup_called" type="bool" qualifier="builtins" value="False" />
+<var name="_attach_id" type="str" qualifier="builtins" value="frpqd6lm" />
+<var name="_attach_pid" type="int" qualifier="builtins" value="43341" />
+<var name="_backend" type="Backend" qualifier="wandb.sdk.backend.backend" value="%3Cwandb.sdk.backend.backend.Backend object at 0x7c7ef63708f0&gt;" isContainer="True" />
+<var name="_commit" type="str" qualifier="builtins" value="76c425a703c1461ec274cefc75bb5d16e180ae5b" />
+<var name="_config" type="Config" qualifier="wandb.sdk.wandb_config" value="%7B%27learning_rate%27%3A 0.0005%2C %27dataset%27%3A %27MNIST%27%7D" isContainer="True" />
+<var name="_entity" type="str" qualifier="builtins" value="phongminhphan-vietnam-national-university-hanoi" />
+<var name="_err_redir" type="StreamRawWrapper" qualifier="wandb.sdk.lib.redirect" value="%3Cwandb.sdk.lib.redirect.StreamRawWrapper object at 0x7c7ef5900170&gt;" isContainer="True" />
+<var name="_exit_code" type="NoneType" qualifier="builtins" value="None" />
+<var name="_exit_result" type="NoneType" qualifier="builtins" value="None" />
+<var name="_final_summary" type="NoneType" qualifier="builtins" value="None" />
+<var name="_frozen" type="bool" qualifier="builtins" value="True" />
+<var name="_group" type="NoneType" qualifier="builtins" value="None" />
+<var name="_hooks" type="ExitHooks" qualifier="wandb.sdk.lib.exit_hooks" value="%3Cwandb.sdk.lib.exit_hooks.ExitHooks object at 0x7c7ef5900590&gt;" isContainer="True" />
+<var name="_iface_pid" type="int" qualifier="builtins" value="43341" />
+<var name="_iface_port" type="NoneType" qualifier="builtins" value="None" />
+<var name="_init_pid" type="int" qualifier="builtins" value="43341" />
+<var name="_internal_messages_response" type="NoneType" qualifier="builtins" value="None" />
+<var name="_internal_run_interface" type="NoneType" qualifier="builtins" value="None" />
+<var name="_is_attached" type="bool" qualifier="builtins" value="False" />
+<var name="_is_finished" type="bool" qualifier="builtins" value="False" />
+<var name="_job_type" type="NoneType" qualifier="builtins" value="None" />
+<var name="_launch_artifact_mapping" type="dict" qualifier="builtins" value="%7B%7D" isContainer="True" shape="0" />
+<var name="_name" type="str" qualifier="builtins" value="noble-donkey-3" />
+<var name="_notes" type="NoneType" qualifier="builtins" value="None" />
+<var name="_out_redir" type="StreamRawWrapper" qualifier="wandb.sdk.lib.redirect" value="%3Cwandb.sdk.lib.redirect.StreamRawWrapper object at 0x7c7ef63e7bc0&gt;" isContainer="True" />
+<var name="_output_writer" type="NoneType" qualifier="builtins" value="None" />
+<var name="_poll_exit_handle" type="NoneType" qualifier="builtins" value="None" />
+<var name="_poll_exit_response" type="NoneType" qualifier="builtins" value="None" />
+<var name="_printer" type="_PrinterJupyter" qualifier="wandb.sdk.lib.printer" value="%3Cwandb.sdk.lib.printer._PrinterJupyter object at 0x7c7ef63addf0&gt;" isContainer="True" />
+<var name="_project" type="str" qualifier="builtins" value="VIT_WANDB_MNIST" />
+<var name="_remote_url" type="str" qualifier="builtins" value="https%3A//github.com/BeoHamHoc/VIT_WANDB_MNIST.git" />
+<var name="_reporter" type="Reporter" qualifier="wandb.sdk.lib.reporting" value="%3Cwandb.sdk.lib.reporting.Reporter object at 0x7c7ef638aed0&gt;" isContainer="True" />
+<var name="_run_id" type="str" qualifier="builtins" value="frpqd6lm" />
+<var name="_run_obj" type="RunRecord" qualifier="wandb.proto.wandb_internal_pb2" value="run_id%3A %22frpqd6lm%22%0Aentity%3A %22phongminhphan-vietnam-national-university-hanoi%22%0Aproject%3A %22VIT_WANDB_MNIST%22%0Aconfig %7B%0A  update %7B%0A  ...%0Agit %7B%0A  remote_url%3A %22https%3A//github.com/BeoHamHoc/VIT_WANDB_MNIST.git%22%0A  commit%3A %2276c425a703c1461ec274cefc75bb5d16e180ae5b%22%0A%7D%0A" isContainer="True" />
+<var name="_run_status_checker" type="RunStatusChecker" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.RunStatusChecker object at 0x7c7ef6444800&gt;" isContainer="True" />
+<var name="_sampled_history" type="NoneType" qualifier="builtins" value="None" />
+<var name="_settings" type="Settings" qualifier="wandb.sdk.wandb_settings" value="%3CSettings %7B%27_Settings__frozen%27%3A False%2C %27_Settings__initialized%27%3A True%2C %27_Settings__modification_order%27%3A %28%27_service_wait%27%2C %27_st...me%27%3A %27%3CProperty value=phong source=8&gt;%27%2C %27wandb_dir%27%3A %27%3CProperty value=/home/phong/PycharmProjects/VIT_WANDB/wandb/ source=1&gt;%27%7D&gt;" isContainer="True" />
+<var name="_start_time" type="float" qualifier="builtins" value="1733198082.8176715" />
+<var name="_starting_step" type="int" qualifier="builtins" value="0" />
+<var name="_stderr_slave_fd" type="NoneType" qualifier="builtins" value="None" />
+<var name="_stdout_slave_fd" type="NoneType" qualifier="builtins" value="None" />
+<var name="_step" type="int" qualifier="builtins" value="0" />
+<var name="_sweep_id" type="NoneType" qualifier="builtins" value="None" />
+<var name="_system_metrics" type="dict" qualifier="builtins" value="%7B%7D" isContainer="True" shape="0" />
+<var name="_tags" type="NoneType" qualifier="builtins" value="None" />
+<var name="_teardown_hooks" type="list" qualifier="builtins" value="%5BTeardownHook%28call=%3Cfunction _WandbInit._enable_logging.%3Clocals&gt;.%3Clambda&gt; at 0x7c7ef7392520&gt;%2C stage=%3CTeardownStage.LATE%3A 2&gt;%29%2C TeardownHook%28call=%3Cbound method _WandbInit._jupyter_teardown of %3Cwandb.sdk.wandb_init._WandbInit object at 0x7c7ef6db9f10&gt;&gt;%2C stage=%3CTeardownStage.EARLY%3A 1&gt;%29%5D" isContainer="True" shape="2" />
+<var name="_telemetry_obj" type="TelemetryRecord" qualifier="wandb.proto.wandb_telemetry_pb2" value="imports_init %7B%0A  torch%3A true%0A  torchvision%3A true%0A  asyncio%3A true%0A%7D%0Aimports_finish %7B%0A  torch%3A true%0A  torchvision%3A true%0A  asynci...2%22%0Acli_version%3A %220.18.7%22%0Aenv %7B%0A  jupyter%3A true%0A  start_spawn%3A true%0A%7D%0Adeprecated %7B%0A  run__mode%3A true%0A%7D%0Aplatform%3A %22linux-x86_64%22%0A" isContainer="True" />
+<var name="_telemetry_obj_active" type="bool" qualifier="builtins" value="True" />
+<var name="_telemetry_obj_dirty" type="bool" qualifier="builtins" value="False" />
+<var name="_telemetry_obj_flushed" type="bytes" qualifier="builtins" value="b%27%5Cn%5Cx08%5Cx08%5Cx01%5Cxc8%5Cx02%5Cx01%5Cxb8%5Cx03%5Cx01%5Cx12%5Cx08%5Cx08%5Cx01%5Cxc8%5Cx02%5Cx01%5Cxb8%5Cx03%5Cx01%5Cx1a%5Ct%5Cx80%5Cx01%5Cx01%5Cxb8%5Cx01%5Cx01%5Cxb8%5Cx03%5Cx01%22%5Cx063.12.2%2A%5Cx060.18.7B%5Cx04%5Cx08%5Cx01%28%5Cx01j%5Cx0clinux-x86_64%27" isContainer="True" shape="67" />
+<var name="_torch" type="TorchHistory" qualifier="wandb.integration.torch.wandb_torch" value="%3Cwandb.integration.torch.wandb_torch.TorchHistory object at 0x7c7ef6dd29f0&gt;" isContainer="True" />
+<var name="_torch_history" type="TorchHistory" qualifier="wandb.integration.torch.wandb_torch" value="%3Cwandb.integration.torch.wandb_torch.TorchHistory object at 0x7c7ef6dd29f0&gt;" isContainer="True" />
+<var name="_unique_launch_artifact_sequence_names" type="dict" qualifier="builtins" value="%7B%7D" isContainer="True" shape="0" />
+<var name="_used_artifact_slots" type="dict" qualifier="builtins" value="%7B%7D" isContainer="True" shape="0" />
+<var name="_wl" type="_WandbSetup" qualifier="wandb.sdk.wandb_setup" value="%3Cwandb.sdk.wandb_setup._WandbSetup object at 0x7c7ef6447b60&gt;" isContainer="True" />
+<var name="config" type="Config" qualifier="wandb.sdk.wandb_config" value="%7B%27learning_rate%27%3A 0.0005%2C %27dataset%27%3A %27MNIST%27%7D" isContainer="True" />
+<var name="config_static" type="ConfigStatic" qualifier="wandb.sdk.wandb_config" value="%7B%27learning_rate%27%3A 0.0005%2C %27dataset%27%3A %27MNIST%27%7D" isContainer="True" />
+<var name="dir" type="str" qualifier="builtins" value="/home/phong/PycharmProjects/VIT_WANDB/wandb/run-20241203_105442-frpqd6lm/files" />
+<var name="disabled" type="bool" qualifier="builtins" value="False" />
+<var name="entity" type="str" qualifier="builtins" value="phongminhphan-vietnam-national-university-hanoi" />
+<var name="group" type="str" qualifier="builtins" value="" />
+<var name="id" type="str" qualifier="builtins" value="frpqd6lm" />
+<var name="job_type" type="str" qualifier="builtins" value="" />
+<var name="mode" type="str" qualifier="builtins" value="run" />
+<var name="name" type="str" qualifier="builtins" value="noble-donkey-3" />
+<var name="notes" type="str" qualifier="builtins" value="" />
+<var name="offline" type="bool" qualifier="builtins" value="False" />
+<var name="path" type="str" qualifier="builtins" value="phongminhphan-vietnam-national-university-hanoi/VIT_WANDB_MNIST/frpqd6lm" />
+<var name="project" type="str" qualifier="builtins" value="VIT_WANDB_MNIST" />
+<var name="resumed" type="bool" qualifier="builtins" value="False" />
+<var name="settings" type="Settings" qualifier="wandb.sdk.wandb_settings" value="%3CSettings %7B%27_Settings__frozen%27%3A True%2C %27_Settings__initialized%27%3A True%2C %27_Settings__modification_order%27%3A %28%27_service_wait%27%2C %27_sta...me%27%3A %27%3CProperty value=phong source=8&gt;%27%2C %27wandb_dir%27%3A %27%3CProperty value=/home/phong/PycharmProjects/VIT_WANDB/wandb/ source=1&gt;%27%7D&gt;" isContainer="True" />
+<var name="start_time" type="float" qualifier="builtins" value="1733198082.817671" />
+<var name="starting_step" type="int" qualifier="builtins" value="0" />
+<var name="step" type="int" qualifier="builtins" value="0" />
+<var name="summary" type="Summary" qualifier="wandb.sdk.wandb_summary" value="%3Cwandb.sdk.wandb_summary.Summary object at 0x7c7ef63addc0&gt;" isContainer="True" />
+<var name="sweep_id" type="NoneType" qualifier="builtins" value="None" />
+<var name="tags" type="tuple" qualifier="builtins" value="%28%29" isContainer="True" shape="0" />
+<var name="url" type="str" qualifier="builtins" value="https%3A//wandb.ai/phongminhphan-vietnam-national-university-hanoi/VIT_WANDB_MNIST/runs/frpqd6lm" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c7ef63add30&gt;" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c7ef63add30&gt;" isContainer="True" />
+</xml>
+/home/phong/miniconda3/lib/python3.12/site-packages/IPython/core/display.py:431: UserWarning: Consider using IPython.display.IFrame instead
+  warnings.warn("Consider using IPython.display.IFrame instead")
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c7ef63add30&gt;" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c7ef63add30&gt;" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c7ef63add30&gt;" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c7ef63add30&gt;" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c7ef63add30&gt;" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c7ef63add30&gt;" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c7ef63add30&gt;" isContainer="True" />
+<var name="trans_5C" type="bytes" qualifier="builtins" value="b%27%5C%5C%5D%5E_XYZ%5BTUVWPQRSLMNOHIJKDEFG%40ABC%7C%7D~%5Cx7fxyz%7Btuvwpqrslmnohijkdefg%60abc%5Cx1c%5Cx1d%5Cx1e%5Cx1f%5Cx18%5Cx19%5Cx1a%5Cx1b%5Cx14%5Cx15%5Cx16%5Cx17%5Cx10%5Cx11...bc%5Cxbd%5Cxbe%5Cxbf%5Cxb8%5Cxb9%5Cxba%5Cxbb%5Cxb4%5Cxb5%5Cxb6%5Cxb7%5Cxb0%5Cxb1%5Cxb2%5Cxb3%5Cxac%5Cxad%5Cxae%5Cxaf%5Cxa8%5Cxa9%5Cxaa%5Cxab%5Cxa4%5Cxa5%5Cxa6%5Cxa7%5Cxa0%5Cxa1%5Cxa2%5Cxa3%27" isContainer="True" shape="256" />
+</xml>
+Requirement already satisfied: wandb in /home/phong/miniconda3/lib/python3.12/site-packages (0.18.7)
+Requirement already satisfied: click!=8.0.0,>=7.1 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (8.1.7)
+Requirement already satisfied: docker-pycreds>=0.4.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (0.4.0)
+Requirement already satisfied: gitpython!=3.1.29,>=1.0.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (3.1.43)
+Requirement already satisfied: platformdirs in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (3.10.0)
+Requirement already satisfied: protobuf!=4.21.0,!=5.28.0,<6,>=3.19.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (5.29.0)
+Requirement already satisfied: psutil>=5.0.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (5.9.0)
+Requirement already satisfied: pyyaml in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (6.0.2)
+Requirement already satisfied: requests<3,>=2.0.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (2.31.0)
+Requirement already satisfied: sentry-sdk>=2.0.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (2.19.0)
+Requirement already satisfied: setproctitle in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (1.3.4)
+Requirement already satisfied: setuptools in /home/phong/miniconda3/lib/python3.12/site-packages (from wandb) (68.2.2)
+Requirement already satisfied: six>=1.4.0 in /home/phong/miniconda3/lib/python3.12/site-packages (from docker-pycreds>=0.4.0->wandb) (1.16.0)
+Requirement already satisfied: gitdb<5,>=4.0.1 in /home/phong/miniconda3/lib/python3.12/site-packages (from gitpython!=3.1.29,>=1.0.0->wandb) (4.0.11)
+Requirement already satisfied: charset-normalizer<4,>=2 in /home/phong/miniconda3/lib/python3.12/site-packages (from requests<3,>=2.0.0->wandb) (2.0.4)
+Requirement already satisfied: idna<4,>=2.5 in /home/phong/miniconda3/lib/python3.12/site-packages (from requests<3,>=2.0.0->wandb) (3.4)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /home/phong/miniconda3/lib/python3.12/site-packages (from requests<3,>=2.0.0->wandb) (2.1.0)
+Requirement already satisfied: certifi>=2017.4.17 in /home/phong/miniconda3/lib/python3.12/site-packages (from requests<3,>=2.0.0->wandb) (2024.8.30)
+Requirement already satisfied: smmap<6,>=3.0.1 in /home/phong/miniconda3/lib/python3.12/site-packages (from gitdb<5,>=4.0.1->gitpython!=3.1.29,>=1.0.0->wandb) (5.0.1)
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x7c7ef63add30&gt;" isContainer="True" />
+<var name="trans_5C" type="bytes" qualifier="builtins" value="b%27%5C%5C%5D%5E_XYZ%5BTUVWPQRSLMNOHIJKDEFG%40ABC%7C%7D~%5Cx7fxyz%7Btuvwpqrslmnohijkdefg%60abc%5Cx1c%5Cx1d%5Cx1e%5Cx1f%5Cx18%5Cx19%5Cx1a%5Cx1b%5Cx14%5Cx15%5Cx16%5Cx17%5Cx10%5Cx11...bc%5Cxbd%5Cxbe%5Cxbf%5Cxb8%5Cxb9%5Cxba%5Cxbb%5Cxb4%5Cxb5%5Cxb6%5Cxb7%5Cxb0%5Cxb1%5Cxb2%5Cxb3%5Cxac%5Cxad%5Cxae%5Cxaf%5Cxa8%5Cxa9%5Cxaa%5Cxab%5Cxa4%5Cxa5%5Cxa6%5Cxa7%5Cxa0%5Cxa1%5Cxa2%5Cxa3%27" isContainer="True" shape="256" />
+</xml>
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

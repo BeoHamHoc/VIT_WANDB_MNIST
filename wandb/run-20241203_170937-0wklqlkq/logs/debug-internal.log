@@ -1,0 +1,17 @@
+{"time":"2024-12-03T17:09:39.474059074+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-03T17:09:39.47407823+07:00","level":"INFO","msg":"created symlink","path":"/home/phong/PycharmProjects/VIT_WANDB/wandb/run-20241203_170937-0wklqlkq/logs/debug-core.log"}
+{"time":"2024-12-03T17:09:39.578138956+07:00","level":"INFO","msg":"created new stream","id":"0wklqlkq"}
+{"time":"2024-12-03T17:09:39.578162891+07:00","level":"INFO","msg":"stream: started","id":"0wklqlkq"}
+{"time":"2024-12-03T17:09:39.578172429+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"0wklqlkq"}
+{"time":"2024-12-03T17:09:39.578185704+07:00","level":"INFO","msg":"sender: started","stream_id":"0wklqlkq"}
+{"time":"2024-12-03T17:09:39.578176757+07:00","level":"INFO","msg":"handler: started","stream_id":"0wklqlkq"}
+{"time":"2024-12-03T17:09:39.950145168+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-03T17:10:26.157027387+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-03T17:10:26.157434974+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-03T17:10:27.157385539+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.531190744},{"desc":"uploading config.yaml","runtime_seconds":0.251168856,"progress":"581B/581B"},{"desc":"uploading output.log","runtime_seconds":0.251160761,"progress":"10.5KB/10.5KB"}],"total_operations":3}}
+{"time":"2024-12-03T17:10:27.411076351+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-03T17:10:28.758873055+07:00","level":"INFO","msg":"stream: closing","id":"0wklqlkq"}
+{"time":"2024-12-03T17:10:28.75889155+07:00","level":"INFO","msg":"handler: closed","stream_id":"0wklqlkq"}
+{"time":"2024-12-03T17:10:28.758900287+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"0wklqlkq"}
+{"time":"2024-12-03T17:10:28.758910155+07:00","level":"INFO","msg":"sender: closed","stream_id":"0wklqlkq"}
+{"time":"2024-12-03T17:10:28.758962564+07:00","level":"INFO","msg":"stream: closed","id":"0wklqlkq"}

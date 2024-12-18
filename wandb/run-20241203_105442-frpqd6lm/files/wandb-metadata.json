@@ -1,0 +1,42 @@
+{
+  "os": "Linux-6.8.0-49-generic-x86_64-with-glibc2.39",
+  "python": "3.12.2",
+  "startedAt": "2024-12-03T03:54:42.817671Z",
+  "program": "main.ipynb",
+  "git": {
+    "remote": "https://github.com/BeoHamHoc/VIT_WANDB_MNIST.git",
+    "commit": "76c425a703c1461ec274cefc75bb5d16e180ae5b"
+  },
+  "email": "phongminhphan@gmail.com",
+  "root": "/home/phong/PycharmProjects/VIT_WANDB",
+  "host": "BeosComputer",
+  "username": "phong",
+  "executable": "/home/phong/miniconda3/bin/python",
+  "codePathLocal": "main.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "220857606144",
+      "used": "144791937024"
+    }
+  },
+  "memory": {
+    "total": "16135487488"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal": "4294967296",
+      "cudaCores": 2048,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

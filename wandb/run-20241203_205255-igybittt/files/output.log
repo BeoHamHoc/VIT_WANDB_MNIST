@@ -1,0 +1,341 @@
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7747026ffad0&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x77462f703a40&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7747026ffad0&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x77462f703a40&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7747026ffad0&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x77462f703a40&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7747026ffad0&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x77462f703a40&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+</xml>
+tensor([[0.1252, 0.0454, 0.1185, 0.0180, 0.2779, 0.0663, 0.0951, 0.1341, 0.0968,
+         0.0227],
+        [0.1242, 0.0421, 0.1151, 0.0174, 0.2894, 0.0627, 0.0892, 0.1334, 0.1032,
+         0.0233],
+        [0.1297, 0.0461, 0.1125, 0.0187, 0.2686, 0.0664, 0.0904, 0.1389, 0.1059,
+         0.0227],
+        [0.1270, 0.0448, 0.1115, 0.0183, 0.2755, 0.0659, 0.0894, 0.1390, 0.1054,
+         0.0231],
+        [0.1297, 0.0430, 0.1083, 0.0175, 0.2820, 0.0638, 0.0880, 0.1367, 0.1079,
+         0.0230],
+        [0.1253, 0.0418, 0.1178, 0.0174, 0.2861, 0.0620, 0.0882, 0.1339, 0.1047,
+         0.0227],
+        [0.1277, 0.0430, 0.1103, 0.0174, 0.2819, 0.0637, 0.0913, 0.1379, 0.1035,
+         0.0231]], grad_fn=<SoftmaxBackward0>)
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="model" type="MyViT" qualifier="__main__" value="MyViT%28%0A  %28linear_mapper%29%3A Linear%28in_features=16%2C out_features=8%2C bias=True%29%0A  %28blocks%29%3A ModuleList%28%0A    %280-1%29%3A 2 x MyViTBlock%28...     %29%0A    %29%0A  %29%0A  %28mlp%29%3A Sequential%28%0A    %280%29%3A Linear%28in_features=8%2C out_features=10%2C bias=True%29%0A    %281%29%3A Softmax%28dim=-1%29%0A  %29%0A%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7747026ffad0&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x77462f703a40&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+<var name="x" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B%5B 1.0816%2C -0.4824%2C  0.5147%2C  ...%2C  0.6011%2C -0.0741%2C  0.3640%5D%2C%0A          %5B-1.1076%2C -0.1010%2C  0.6977%2C  ...%2C -0.9279%2C  ... -0.0691%2C -0.5569%2C  ...%2C  0.3720%2C  0.5044%2C -1.6225%5D%2C%0A          %5B 0.5976%2C  0.0569%2C -1.6745%2C  ...%2C -0.8365%2C  0.7124%2C  0.5951%5D%5D%5D%5D%29" isContainer="True" shape="(7, 1, 28, 28)" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="model" type="MyViT" qualifier="__main__" value="MyViT%28%0A  %28linear_mapper%29%3A Linear%28in_features=16%2C out_features=8%2C bias=True%29%0A  %28blocks%29%3A ModuleList%28%0A    %280-1%29%3A 2 x MyViTBlock%28...     %29%0A    %29%0A  %29%0A  %28mlp%29%3A Sequential%28%0A    %280%29%3A Linear%28in_features=8%2C out_features=10%2C bias=True%29%0A    %281%29%3A Softmax%28dim=-1%29%0A  %29%0A%29" isContainer="True" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7747026ffad0&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x77462f703a40&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+<var name="x" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B%5B 1.0816%2C -0.4824%2C  0.5147%2C  ...%2C  0.6011%2C -0.0741%2C  0.3640%5D%2C%0A          %5B-1.1076%2C -0.1010%2C  0.6977%2C  ...%2C -0.9279%2C  ... -0.0691%2C -0.5569%2C  ...%2C  0.3720%2C  0.5044%2C -1.6225%5D%2C%0A          %5B 0.5976%2C  0.0569%2C -1.6745%2C  ...%2C -0.8365%2C  0.7124%2C  0.5951%5D%5D%5D%5D%29" isContainer="True" shape="(7, 1, 28, 28)" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="LR" type="float" qualifier="builtins" value="0.005" />
+<var name="N_EPOCHS" type="int" qualifier="builtins" value="10" />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="best_accuracy" type="float" qualifier="builtins" value="0.0" />
+<var name="criterion" type="CrossEntropyLoss" qualifier="torch.nn.modules.loss" value="CrossEntropyLoss%28%29" isContainer="True" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="epochs_without_improvement" type="int" qualifier="builtins" value="0" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="model" type="MyViT" qualifier="__main__" value="MyViT%28%0A  %28linear_mapper%29%3A Linear%28in_features=16%2C out_features=8%2C bias=True%29%0A  %28blocks%29%3A ModuleList%28%0A    %280-1%29%3A 2 x MyViTBlock%28...     %29%0A    %29%0A  %29%0A  %28mlp%29%3A Sequential%28%0A    %280%29%3A Linear%28in_features=8%2C out_features=10%2C bias=True%29%0A    %281%29%3A Softmax%28dim=-1%29%0A  %29%0A%29" isContainer="True" />
+<var name="optimizer" type="Adam" qualifier="torch.optim.adam" value="Adam %28%0AParameter Group 0%0A    amsgrad%3A False%0A    betas%3A %280.9%2C 0.999%29%0A    capturable%3A False%0A    differentiable%3A False%0A    eps%3A 1e-08%0A    foreach%3A None%0A    fused%3A None%0A    lr%3A 0.005%0A    maximize%3A False%0A    weight_decay%3A 0%0A%29" isContainer="True" />
+<var name="patience" type="int" qualifier="builtins" value="3" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7747026ffad0&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x77462f703a40&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+<var name="x" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B%5B 1.0816%2C -0.4824%2C  0.5147%2C  ...%2C  0.6011%2C -0.0741%2C  0.3640%5D%2C%0A          %5B-1.1076%2C -0.1010%2C  0.6977%2C  ...%2C -0.9279%2C  ... -0.0691%2C -0.5569%2C  ...%2C  0.3720%2C  0.5044%2C -1.6225%5D%2C%0A          %5B 0.5976%2C  0.0569%2C -1.6745%2C  ...%2C -0.8365%2C  0.7124%2C  0.5951%5D%5D%5D%5D%29" isContainer="True" shape="(7, 1, 28, 28)" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="LR" type="float" qualifier="builtins" value="0.005" />
+<var name="N_EPOCHS" type="int" qualifier="builtins" value="10" />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="best_accuracy" type="float" qualifier="builtins" value="0.0" />
+<var name="criterion" type="CrossEntropyLoss" qualifier="torch.nn.modules.loss" value="CrossEntropyLoss%28%29" isContainer="True" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="epochs_without_improvement" type="int" qualifier="builtins" value="0" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="model" type="MyViT" qualifier="__main__" value="MyViT%28%0A  %28linear_mapper%29%3A Linear%28in_features=16%2C out_features=8%2C bias=True%29%0A  %28blocks%29%3A ModuleList%28%0A    %280-1%29%3A 2 x MyViTBlock%28...     %29%0A    %29%0A  %29%0A  %28mlp%29%3A Sequential%28%0A    %280%29%3A Linear%28in_features=8%2C out_features=10%2C bias=True%29%0A    %281%29%3A Softmax%28dim=-1%29%0A  %29%0A%29" isContainer="True" />
+<var name="optimizer" type="Adam" qualifier="torch.optim.adam" value="Adam %28%0AParameter Group 0%0A    amsgrad%3A False%0A    betas%3A %280.9%2C 0.999%29%0A    capturable%3A False%0A    differentiable%3A False%0A    eps%3A 1e-08%0A    foreach%3A None%0A    fused%3A None%0A    lr%3A 0.005%0A    maximize%3A False%0A    weight_decay%3A 0%0A%29" isContainer="True" />
+<var name="patience" type="int" qualifier="builtins" value="3" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7747026ffad0&gt;" isContainer="True" shape="157" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x77462f703a40&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+<var name="x" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B%5B 1.0816%2C -0.4824%2C  0.5147%2C  ...%2C  0.6011%2C -0.0741%2C  0.3640%5D%2C%0A          %5B-1.1076%2C -0.1010%2C  0.6977%2C  ...%2C -0.9279%2C  ... -0.0691%2C -0.5569%2C  ...%2C  0.3720%2C  0.5044%2C -1.6225%5D%2C%0A          %5B 0.5976%2C  0.0569%2C -1.6745%2C  ...%2C -0.8365%2C  0.7124%2C  0.5951%5D%5D%5D%5D%29" isContainer="True" shape="(7, 1, 28, 28)" />
+</xml>
+/tmp/ipykernel_75967/2230190768.py:1: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load("best_model.pth"))
+/tmp/ipykernel_75967/3103528816.py:38: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+Final test loss (best model): 1.70
+Final test accuracy (best model): 76.25%
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="LR" type="float" qualifier="builtins" value="0.005" />
+<var name="N_EPOCHS" type="int" qualifier="builtins" value="10" />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="best_accuracy" type="float" qualifier="builtins" value="0.0" />
+<var name="criterion" type="CrossEntropyLoss" qualifier="torch.nn.modules.loss" value="CrossEntropyLoss%28%29" isContainer="True" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="epochs_without_improvement" type="int" qualifier="builtins" value="0" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="model" type="MyViT" qualifier="__main__" value="MyViT%28%0A  %28linear_mapper%29%3A Linear%28in_features=16%2C out_features=8%2C bias=True%29%0A  %28blocks%29%3A ModuleList%28%0A    %280-1%29%3A 2 x MyViTBlock%28...     %29%0A    %29%0A  %29%0A  %28mlp%29%3A Sequential%28%0A    %280%29%3A Linear%28in_features=8%2C out_features=10%2C bias=True%29%0A    %281%29%3A Softmax%28dim=-1%29%0A  %29%0A%29" isContainer="True" />
+<var name="optimizer" type="Adam" qualifier="torch.optim.adam" value="Adam %28%0AParameter Group 0%0A    amsgrad%3A False%0A    betas%3A %280.9%2C 0.999%29%0A    capturable%3A False%0A    differentiable%3A False%0A    eps%3A 1e-08%0A    foreach%3A None%0A    fused%3A None%0A    lr%3A 0.005%0A    maximize%3A False%0A    weight_decay%3A 0%0A%29" isContainer="True" />
+<var name="patience" type="int" qualifier="builtins" value="3" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+<var name="test_accuracy" type="float" qualifier="builtins" value="0.7625" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7747026ffad0&gt;" isContainer="True" shape="157" />
+<var name="test_loss" type="float" qualifier="builtins" value="1.6980022860180803" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x77462f703a40&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+<var name="x" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B%5B 1.0816%2C -0.4824%2C  0.5147%2C  ...%2C  0.6011%2C -0.0741%2C  0.3640%5D%2C%0A          %5B-1.1076%2C -0.1010%2C  0.6977%2C  ...%2C -0.9279%2C  ... -0.0691%2C -0.5569%2C  ...%2C  0.3720%2C  0.5044%2C -1.6225%5D%2C%0A          %5B 0.5976%2C  0.0569%2C -1.6745%2C  ...%2C -0.8365%2C  0.7124%2C  0.5951%5D%5D%5D%5D%29" isContainer="True" shape="(7, 1, 28, 28)" />
+</xml>
+  model.load_state_dict(torch.load("best_model.pth"))
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="LR" type="float" qualifier="builtins" value="0.005" />
+<var name="N_EPOCHS" type="int" qualifier="builtins" value="10" />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="best_accuracy" type="float" qualifier="builtins" value="0.0" />
+<var name="criterion" type="CrossEntropyLoss" qualifier="torch.nn.modules.loss" value="CrossEntropyLoss%28%29" isContainer="True" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="epochs_without_improvement" type="int" qualifier="builtins" value="0" />
+<var name="i" type="Tensor" qualifier="torch" value="tensor%285850%29" isContainer="True" shape="()" />
+<var name="image" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.... 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%5D%5D%5D%29" isContainer="True" shape="(1, 28, 28)" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="indices" type="Tensor" qualifier="torch" value="tensor%28%5B5850%2C 6128%2C 4837%2C  585%2C 6442%5D%29" isContainer="True" shape="(5,)" />
+<var name="label" type="int" qualifier="builtins" value="3" />
+<var name="model" type="MyViT" qualifier="__main__" value="MyViT%28%0A  %28linear_mapper%29%3A Linear%28in_features=16%2C out_features=8%2C bias=True%29%0A  %28blocks%29%3A ModuleList%28%0A    %280-1%29%3A 2 x MyViTBlock%28...     %29%0A    %29%0A  %29%0A  %28mlp%29%3A Sequential%28%0A    %280%29%3A Linear%28in_features=8%2C out_features=10%2C bias=True%29%0A    %281%29%3A Softmax%28dim=-1%29%0A  %29%0A%29" isContainer="True" />
+<var name="num_samples" type="int" qualifier="builtins" value="5" />
+<var name="optimizer" type="Adam" qualifier="torch.optim.adam" value="Adam %28%0AParameter Group 0%0A    amsgrad%3A False%0A    betas%3A %280.9%2C 0.999%29%0A    capturable%3A False%0A    differentiable%3A False%0A    eps%3A 1e-08%0A    foreach%3A None%0A    fused%3A None%0A    lr%3A 0.005%0A    maximize%3A False%0A    weight_decay%3A 0%0A%29" isContainer="True" />
+<var name="patience" type="int" qualifier="builtins" value="3" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+<var name="test_accuracy" type="float" qualifier="builtins" value="0.7625" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7747026ffad0&gt;" isContainer="True" shape="157" />
+<var name="test_loss" type="float" qualifier="builtins" value="1.6980022860180803" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x77462f703a40&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+<var name="x" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B%5B 1.0816%2C -0.4824%2C  0.5147%2C  ...%2C  0.6011%2C -0.0741%2C  0.3640%5D%2C%0A          %5B-1.1076%2C -0.1010%2C  0.6977%2C  ...%2C -0.9279%2C  ... -0.0691%2C -0.5569%2C  ...%2C  0.3720%2C  0.5044%2C -1.6225%5D%2C%0A          %5B 0.5976%2C  0.0569%2C -1.6745%2C  ...%2C -0.8365%2C  0.7124%2C  0.5951%5D%5D%5D%5D%29" isContainer="True" shape="(7, 1, 28, 28)" />
+</xml>
+<xml><var name="H" type="str" qualifier="builtins" value="Traceback %28most recent call last%29%3A%0A  File %22/snap/pycharm-professional/440/plugins/python-ce/helpers/pydev/_pydevd_bundle/pydevd_resolver.py%22%2C line 178%2C in _getPyDictionary%0A    attr = getattr%28var%2C n%29%0A           %5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%0ARuntimeError%3A tensor.H is only" />
+<var name="T" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B0.0000%5D%2C%0A         %5B0.0000%5D%2C%0A         %5B0.0000%5D%2C%0A         %5B0.0000%5D%2C%0A         %5B0.0000%5D%2C%0A         %5B0.0000%5D%2C%0A         %5B0....  %5B0.0000%5D%2C%0A         %5B0.0000%5D%2C%0A         %5B0.0000%5D%2C%0A         %5B0.0000%5D%2C%0A         %5B0.0000%5D%2C%0A         %5B0.0000%5D%2C%0A         %5B0.0000%5D%5D%5D%29" isContainer="True" shape="(28, 28, 1)" />
+<var name="_backward_hooks" type="NoneType" qualifier="builtins" value="None" />
+<var name="_base" type="NoneType" qualifier="builtins" value="None" />
+<var name="_cdata" type="int" qualifier="builtins" value="188002688" />
+<var name="_grad" type="NoneType" qualifier="builtins" value="None" />
+<var name="_grad_fn" type="NoneType" qualifier="builtins" value="None" />
+<var name="_has_symbolic_sizes_strides" type="bool" qualifier="builtins" value="False" />
+<var name="_post_accumulate_grad_hooks" type="NoneType" qualifier="builtins" value="None" />
+<var name="_python_dispatch" type="bool" qualifier="builtins" value="False" />
+<var name="_version" type="int" qualifier="builtins" value="0" />
+<var name="data" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.... 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%5D%5D%5D%29" isContainer="True" shape="(1, 28, 28)" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cpu%27%29" isContainer="True" />
+<var name="dtype" type="dtype" qualifier="torch" value="torch.float32" isContainer="True" />
+<var name="grad" type="NoneType" qualifier="builtins" value="None" />
+<var name="grad_fn" type="NoneType" qualifier="builtins" value="None" />
+<var name="imag" type="str" qualifier="builtins" value="Traceback %28most recent call last%29%3A%0A  File %22/snap/pycharm-professional/440/plugins/python-ce/helpers/pydev/_pydevd_bundle/pydevd_resolver.py%22%2C line 178%2C in _getPyDictionary%0A    attr = getattr%28var%2C n%29%0A           %5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%0ARuntimeError%3A imag is not impl" />
+<var name="is_cpu" type="bool" qualifier="builtins" value="True" />
+<var name="is_cuda" type="bool" qualifier="builtins" value="False" />
+<var name="is_ipu" type="bool" qualifier="builtins" value="False" />
+<var name="is_leaf" type="bool" qualifier="builtins" value="True" />
+<var name="is_maia" type="bool" qualifier="builtins" value="False" />
+<var name="is_meta" type="bool" qualifier="builtins" value="False" />
+<var name="is_mkldnn" type="bool" qualifier="builtins" value="False" />
+<var name="is_mps" type="bool" qualifier="builtins" value="False" />
+<var name="is_mtia" type="bool" qualifier="builtins" value="False" />
+<var name="is_nested" type="bool" qualifier="builtins" value="False" />
+<var name="is_quantized" type="bool" qualifier="builtins" value="False" />
+<var name="is_sparse" type="bool" qualifier="builtins" value="False" />
+<var name="is_sparse_csr" type="bool" qualifier="builtins" value="False" />
+<var name="is_vulkan" type="bool" qualifier="builtins" value="False" />
+<var name="is_xla" type="bool" qualifier="builtins" value="False" />
+<var name="is_xpu" type="bool" qualifier="builtins" value="False" />
+<var name="itemsize" type="int" qualifier="builtins" value="4" />
+<var name="layout" type="layout" qualifier="torch" value="torch.strided" isContainer="True" />
+<var name="mH" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.... 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%5D%5D%5D%29" isContainer="True" shape="(1, 28, 28)" />
+<var name="mT" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.... 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%5D%5D%5D%29" isContainer="True" shape="(1, 28, 28)" />
+<var name="name" type="NoneType" qualifier="builtins" value="None" />
+<var name="names" type="tuple" qualifier="builtins" value="%28None%2C None%2C None%29" isContainer="True" shape="3" />
+<var name="nbytes" type="int" qualifier="builtins" value="3136" />
+<var name="ndim" type="int" qualifier="builtins" value="3" />
+<var name="output_nr" type="int" qualifier="builtins" value="0" />
+<var name="real" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.... 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%5D%5D%5D%29" isContainer="True" shape="(1, 28, 28)" />
+<var name="requires_grad" type="bool" qualifier="builtins" value="False" />
+<var name="retains_grad" type="bool" qualifier="builtins" value="False" />
+<var name="shape" type="Size" qualifier="torch" value="torch.Size%28%5B1%2C 28%2C 28%5D%29" isContainer="True" shape="3" />
+</xml>
+/tmp/ipykernel_75967/862432946.py:56: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load("best_model.pth"))
+Hình ảnh thứ 7167:
+Nhãn thực tế: 6
+Nhãn dự đoán: 6
+Hình ảnh thứ 2834:
+Nhãn thực tế: 7
+Nhãn dự đoán: 7
+Hình ảnh thứ 7763:
+Nhãn thực tế: 2
+Nhãn dự đoán: 2
+Hình ảnh thứ 6978:
+Nhãn thực tế: 5
+Nhãn dự đoán: 5
+Hình ảnh thứ 1012:
+Nhãn thực tế: 1
+Nhãn dự đoán: 1
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="LR" type="float" qualifier="builtins" value="0.005" />
+<var name="N_EPOCHS" type="int" qualifier="builtins" value="10" />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="best_accuracy" type="float" qualifier="builtins" value="0.0" />
+<var name="criterion" type="CrossEntropyLoss" qualifier="torch.nn.modules.loss" value="CrossEntropyLoss%28%29" isContainer="True" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="epochs_without_improvement" type="int" qualifier="builtins" value="0" />
+<var name="i" type="Tensor" qualifier="torch" value="tensor%281011%29" isContainer="True" shape="()" />
+<var name="image" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.... 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%5D%5D%5D%29" isContainer="True" shape="(1, 28, 28)" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="indices" type="Tensor" qualifier="torch" value="tensor%28%5B7166%2C 2833%2C 7762%2C 6977%2C 1011%5D%29" isContainer="True" shape="(5,)" />
+<var name="label" type="int" qualifier="builtins" value="1" />
+<var name="model" type="MyViT" qualifier="__main__" value="MyViT%28%0A  %28linear_mapper%29%3A Linear%28in_features=16%2C out_features=8%2C bias=True%29%0A  %28blocks%29%3A ModuleList%28%0A    %280-1%29%3A 2 x MyViTBlock%28...     %29%0A    %29%0A  %29%0A  %28mlp%29%3A Sequential%28%0A    %280%29%3A Linear%28in_features=8%2C out_features=10%2C bias=True%29%0A    %281%29%3A Softmax%28dim=-1%29%0A  %29%0A%29" isContainer="True" />
+<var name="num_samples" type="int" qualifier="builtins" value="5" />
+<var name="optimizer" type="Adam" qualifier="torch.optim.adam" value="Adam %28%0AParameter Group 0%0A    amsgrad%3A False%0A    betas%3A %280.9%2C 0.999%29%0A    capturable%3A False%0A    differentiable%3A False%0A    eps%3A 1e-08%0A    foreach%3A None%0A    fused%3A None%0A    lr%3A 0.005%0A    maximize%3A False%0A    weight_decay%3A 0%0A%29" isContainer="True" />
+<var name="patience" type="int" qualifier="builtins" value="3" />
+<var name="predicted_label" type="int" qualifier="builtins" value="1" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+<var name="test_accuracy" type="float" qualifier="builtins" value="0.7625" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7747026ffad0&gt;" isContainer="True" shape="157" />
+<var name="test_loss" type="float" qualifier="builtins" value="1.6980022860180803" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x77462f703a40&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+<var name="x" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B%5B 1.0816%2C -0.4824%2C  0.5147%2C  ...%2C  0.6011%2C -0.0741%2C  0.3640%5D%2C%0A          %5B-1.1076%2C -0.1010%2C  0.6977%2C  ...%2C -0.9279%2C  ... -0.0691%2C -0.5569%2C  ...%2C  0.3720%2C  0.5044%2C -1.6225%5D%2C%0A          %5B 0.5976%2C  0.0569%2C -1.6745%2C  ...%2C -0.8365%2C  0.7124%2C  0.5951%5D%5D%5D%5D%29" isContainer="True" shape="(7, 1, 28, 28)" />
+</xml>
+/tmp/ipykernel_75967/2317978726.py:46: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load("best_model.pth"))
+Hình ảnh thứ 7085:
+Nhãn thực tế: 0
+Nhãn dự đoán: 0
+Hình ảnh thứ 2208:
+Nhãn thực tế: 5
+Nhãn dự đoán: 5
+Hình ảnh thứ 6741:
+Nhãn thực tế: 9
+Nhãn dự đoán: 0
+Hình ảnh thứ 5427:
+Nhãn thực tế: 4
+Nhãn dự đoán: 4
+Hình ảnh thứ 3754:
+Nhãn thực tế: 7
+Nhãn dự đoán: 7
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="LR" type="float" qualifier="builtins" value="0.005" />
+<var name="N_EPOCHS" type="int" qualifier="builtins" value="10" />
+<var name="_exit_code" type="int" qualifier="builtins" value="0" />
+<var name="best_accuracy" type="float" qualifier="builtins" value="0.0" />
+<var name="criterion" type="CrossEntropyLoss" qualifier="torch.nn.modules.loss" value="CrossEntropyLoss%28%29" isContainer="True" />
+<var name="device" type="device" qualifier="torch" value="device%28type=%27cuda%27%2C index=0%29" isContainer="True" />
+<var name="epochs_without_improvement" type="int" qualifier="builtins" value="0" />
+<var name="i" type="Tensor" qualifier="torch" value="tensor%283753%29" isContainer="True" shape="()" />
+<var name="image" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.... 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C 0.0000%2C%0A          0.0000%2C 0.0000%2C 0.0000%2C 0.0000%5D%5D%5D%29" isContainer="True" shape="(1, 28, 28)" />
+<var name="image_path" type="str" qualifier="builtins" value="0.png" />
+<var name="indices" type="Tensor" qualifier="torch" value="tensor%28%5B7084%2C 2207%2C 6740%2C 5426%2C 3753%5D%29" isContainer="True" shape="(5,)" />
+<var name="label" type="int" qualifier="builtins" value="7" />
+<var name="model" type="MyViT" qualifier="__main__" value="MyViT%28%0A  %28linear_mapper%29%3A Linear%28in_features=16%2C out_features=8%2C bias=True%29%0A  %28blocks%29%3A ModuleList%28%0A    %280-1%29%3A 2 x MyViTBlock%28...     %29%0A    %29%0A  %29%0A  %28mlp%29%3A Sequential%28%0A    %280%29%3A Linear%28in_features=8%2C out_features=10%2C bias=True%29%0A    %281%29%3A Softmax%28dim=-1%29%0A  %29%0A%29" isContainer="True" />
+<var name="num_samples" type="int" qualifier="builtins" value="5" />
+<var name="optimizer" type="Adam" qualifier="torch.optim.adam" value="Adam %28%0AParameter Group 0%0A    amsgrad%3A False%0A    betas%3A %280.9%2C 0.999%29%0A    capturable%3A False%0A    differentiable%3A False%0A    eps%3A 1e-08%0A    foreach%3A None%0A    fused%3A None%0A    lr%3A 0.005%0A    maximize%3A False%0A    weight_decay%3A 0%0A%29" isContainer="True" />
+<var name="patience" type="int" qualifier="builtins" value="3" />
+<var name="predicted_label" type="int" qualifier="builtins" value="7" />
+<var name="run" type="Run" qualifier="wandb.sdk.wandb_run" value="%3Cwandb.sdk.wandb_run.Run object at 0x77462f713da0&gt;" isContainer="True" />
+<var name="test_accuracy" type="float" qualifier="builtins" value="0.7625" />
+<var name="test_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x7747026ffad0&gt;" isContainer="True" shape="157" />
+<var name="test_loss" type="float" qualifier="builtins" value="1.6980022860180803" />
+<var name="test_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 10000%0A    Root location%3A ./data%0A    Split%3A Test%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="10000" />
+<var name="train_loader" type="DataLoader" qualifier="torch.utils.data.dataloader" value="%3Ctorch.utils.data.dataloader.DataLoader object at 0x77462f703a40&gt;" isContainer="True" shape="938" />
+<var name="train_set" type="MNIST" qualifier="torchvision.datasets.mnist" value="Dataset MNIST%0A    Number of datapoints%3A 60000%0A    Root location%3A ./data%0A    Split%3A Train%0A    StandardTransform%0ATransform%3A ToTensor%28%29" isContainer="True" shape="60000" />
+<var name="transform" type="ToTensor" qualifier="torchvision.transforms.transforms" value="ToTensor%28%29" isContainer="True" />
+<var name="x" type="Tensor" qualifier="torch" value="tensor%28%5B%5B%5B%5B 1.0816%2C -0.4824%2C  0.5147%2C  ...%2C  0.6011%2C -0.0741%2C  0.3640%5D%2C%0A          %5B-1.1076%2C -0.1010%2C  0.6977%2C  ...%2C -0.9279%2C  ... -0.0691%2C -0.5569%2C  ...%2C  0.3720%2C  0.5044%2C -1.6225%5D%2C%0A          %5B 0.5976%2C  0.0569%2C -1.6745%2C  ...%2C -0.8365%2C  0.7124%2C  0.5951%5D%5D%5D%5D%29" isContainer="True" shape="(7, 1, 28, 28)" />
+</xml>
